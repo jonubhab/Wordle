@@ -14,6 +14,7 @@ Steps to use Go.py:
    Open Wordle and set the window on right half of your screen.
 2) Select Normal or Hard mode. It calls 'Normal.py' or 'Hard.py' accordingly.
 3) Watch it solve the wordle.
+
 Caution: The coordinates of pyautogui are fine-tuned according to my system. It may differ in some other PC. Setting up coordinates:-
 1) Run 'cursor.py' and snap the python terminal on the left half of your screen.
    Open Wordle and set the window on right half of your screen.
